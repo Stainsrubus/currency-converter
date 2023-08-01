@@ -1,0 +1,4 @@
+In HTML
+
+select is used to make dropdown
+to get input from the use input keyword is used
